@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fortunate laywer:, or, The young students new family. Being a pleasant and true relation of a young lawyer, who lately pickt up a Fleet-Street night-walker, and civilly handed her to his own private chamber, in an eminent inns of court; where after a whole night's dalliance she (with little trouble) presented him with a boy and a girle; who now lies-inn the lawyers chambers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09155</idno>
+            <idno type="STC">Wing F1617A</idno>
+            <idno type="STC">ESTC R224579</idno>
+            <idno type="EEBO-CITATION">64551279</idno>
+            <idno type="OCLC">ocm 64551279</idno>
+            <idno type="VID">184579</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09155)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184579)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2867:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fortunate laywer:, or, The young students new family. Being a pleasant and true relation of a young lawyer, who lately pickt up a Fleet-Street night-walker, and civilly handed her to his own private chamber, in an eminent inns of court; where after a whole night's dalliance she (with little trouble) presented him with a boy and a girle; who now lies-inn the lawyers chambers.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Sharp at the Cock and Fountain near Fleet-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prostitution --  England --  London --  Early works to 1800.</term>
+               <term>Illegitimate children --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  Moral conditions --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184579:1" rendition="simple:additions"/>
+            <head>The Fortunate Lawyer: OR, THE <hi>Young Students New Family,</hi> BEING A Pleaſant and True RELATION of a Young LAWYER, who lately Pickt up a <hi>Fleet-Street</hi> Night-Walker, and Civilly Handed her to his own Private Chamber, in an Eminent <hi>Inns of Court;</hi> where, after a whole Night's Dalliance, She (with little Trouble) Preſented him with a <hi>Boy</hi> and a <hi>Girle;</hi> who now <hi>Lies-Inn,</hi> in the <hi>Lawyer</hi>'s Chamber</head>
+            <p>WHatever other Trade fails, the dayly and important Work of <hi>Propagati<g ref="char:EOLhyphen"/>on,</hi> the fulfilling of the Firſt great Commandement, <hi>Increaſe and Mul<g ref="char:EOLhyphen"/>tiply,</hi> tho' the other Ten are almoſt neglected is certain to go on: And indeed, the ſupplying the <hi>Race of Mankind</hi> under the Reign of <hi>Warrs</hi> and <hi>Battles,</hi> may be no diſacceptable Service to the <hi>Common-wealth;</hi> whilſt the <hi>Men</hi> are preſt a<g ref="char:EOLhyphen"/>way to one Service, 'tis fit the <hi>Women</hi> ſhould be Preſt too, for Recruits.</p>
+            <p>Accordingly, a certain <hi>Gentleman</hi> of the <hi>Long Robe</hi> not far remov'd from the famous <hi>Temple Cloyſters,</hi> (a true <hi>Cloyſterer,</hi> as you'l find by his <hi>Recluſe Life)</hi> having caſt an <hi>Owl-Light</hi> Glance upon a certain <hi>Fleet ſtreet</hi> Evening Walker, of the ſoft <hi>Feminine Gender;</hi> very courteouſly invi<g ref="char:EOLhyphen"/>ted the <hi>Fair Pilgrim</hi> to a private <hi>Geil</hi> of his call'd his <hi>Temple Chamber,</hi> for a gentle Nights Repoſe: The kind <hi>Itinerant,</hi> not over cold this warm Spring Seaſon, readily embraced the generous Proffer, and with a Hand and Heart, <hi>to Have and to Hold,</hi> a Bride for a Night, the Match was ſtruck up, and the kind Pair went forward to the grand Importance, <hi>Conſummation.</hi>
+            </p>
+            <p>As to her Habit, ſhe was pritty well <hi>Rigged,</hi> tho' a little <hi>
+                  <g ref="char:V">Ʋ</g>nſtay'd,</hi> being in a kind of a Looſe Bodied Gown, for ſome <hi>particular Reaſons,</hi> as you'll find by the ſequel. I dare not ſay, ſhe had a <hi>Beau ſhape,</hi> being indeed a little <hi>Overſize<g ref="char:EOLhyphen"/>able</hi> about the Waſt: But our brisk <hi>Amouriſt,</hi> that ſtood not upon thoſe <hi>Niceties,</hi> made at pre<g ref="char:EOLhyphen"/>ſent no other Inquiry than into her upper Tire, <hi>the good Face he diſcovered,</hi> as deferring the Ex<g ref="char:EOLhyphen"/>amination of her <hi>Middle Region</hi> till a fitter Op<g ref="char:EOLhyphen"/>portunity. <hi>Hand</hi> in <hi>Hand</hi> they mov'd to his <hi>Apartment,</hi> where with noe great matter of Ceremony, the <hi>Damſel,</hi> being full as nimble as himſelf, <hi>
+                  <g ref="char:V">Ʋ</g>npinn'd</hi> and <hi>Diſrobed</hi> as quick as the <hi>Spark,</hi> and got to <hi>Bed</hi> with as <hi>frank</hi> an <hi>Expediti on</hi> as himſelf; when he came to the <hi>kind Hug,</hi> and <hi>Amorous Twine,</hi> he found her a pritty <hi>Plump Armful,</hi> being a little more than ordinary round in the <hi>Girdings,</hi> upon this he ſeem'd a little ſtartled, but the kind <hi>Damſel</hi> ſoon diſſipated that Surprize, by aſſuring him, <hi>That as full as he found the Meat in the Pot, there was ſtill Room enough for a Cook in the Kitchin:</hi> The <hi>Spark</hi> was ſoon ſatisfyed in that Point, and reſolved to Baulk no <hi>Manhood</hi> on that <hi>Score:</hi> For now, out of a double <hi>Generoſity,</hi> a little <hi>Charity,</hi> as well as <hi>Love,</hi> he remembred he had either heard or read ſomewhere in <hi>Culpepper's Midwivery,</hi> or ſome other ſuch <hi>Learned Treatiſe,</hi> that <hi>Benevo<g ref="char:EOLhyphen"/>lence helps Production;</hi> and therefore, out of a Principle of more than <hi>Common Goodneſs,</hi> he reſolv'd to beſtir himſelf rather Brisker than ordinary, on ſo <hi>Generous</hi> an <hi>Account:</hi> It's true, he could make no new <hi>Plantation,</hi> where the <hi>Crop</hi> was ſo Rank, and the <hi>Harveſt</hi> already ſo forward; nevertheleſs he would not be want<g ref="char:EOLhyphen"/>ing in all the <hi>Good Offices</hi> before mentioned; and if it were not too late, (if poſſible) to put a <hi>Noſe</hi> to the <hi>Hans en Kelder;</hi> though he had no other Finger in the <hi>Pye.</hi>
+            </p>
+            <p>How heartily he fell on to the Young <hi>Turtle,</hi> or rather <hi>Plump Partridge,</hi> I ſhall not relate; tis ſufficient to tell my Reader, That a ſtout Nights Exerciſe created a ſound Mornings Sleep. When our tired Gameſter, as loudly Snoreing as if he had been at Wages in <hi>Lub<g ref="char:EOLhyphen"/>berland,</hi> the poor <hi>Girl</hi> began a little to gruntle: A certain troubleſom Rumble put her to a little more than ordinary Uneaſineſs. To be ſhort, as much as ſhe had had of the Help of a Man before, ſhe wanted a little Womans Aſſiſtance now. But to ſee how Deſtiny provides for the Diſtreſs'd! it ſo fell out, that without the leaſt <hi>Motherly Matrons Hand</hi> or <hi>Aid,</hi> ſhe fairly diſmantled her whole Load, <hi>viz.</hi> no leſs, then a <hi>Brace</hi> of <hi>Luſty Bantlings,</hi> with almoſt as little trouble as droping the <hi>Crow a Pudding.</hi>
+            </p>
+            <p>All this while her <hi>peaceful Bedfellow</hi> ſlept on; ſo far from wakeing, to lend her <hi>Back</hi> a kind <hi>Hand,</hi> (and, no doubt, as little dreaming of this <hi>young Nurſery</hi> laid by his ſide) that the whole <hi>Mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rey</hi> was performed, before his Eyes were ſo much as opened.</p>
+            <p>When fair Broad <hi>Day,</hi> and the Mounting <hi>Sun</hi> had un-ſeal'd his Lids, his Firſt Salutation was the Harmony of a Brace of <hi>Dimintive Squeal<g ref="char:EOLhyphen"/>ing Pipes;</hi> perhaps, none of the moſt <hi>Grateful,</hi> tho' otherwiſe very <hi>Natural Muſick:</hi> The kind <hi>Mother,</hi> too, join'd in the <hi>Chorus,</hi> by wiſhing him <hi>Joy of the Encreaſe of his Family.</hi>
+            </p>
+            <p>I cannot tell you, (for indeed, it is almoſt im<g ref="char:EOLhyphen"/>poſſible) what Aſtoniſhment ſtruck our <hi>Young Man of Law,</hi> at this unexpected <hi>Diſcovery:</hi> How<g ref="char:EOLhyphen"/>ever, he found, that his <hi>Culpepper</hi> had ſpoken <hi>Oracles,</hi> and himſelf had play'd an <hi>Expert Scho<g ref="char:EOLhyphen"/>lar,</hi> under ſo <hi>Gamaliel</hi> a <hi>Doctor:</hi> For the <hi>Bene<g ref="char:EOLhyphen"/>volent Gentleman</hi> had made the <hi>Productive Expe<g ref="char:EOLhyphen"/>riment,</hi> by a <hi>Probatum eſt.</hi>
+            </p>
+            <p>Well, <hi>Sweet Meat muſt have Sow'r Sawce:</hi> He has not <hi>Danc'd</hi> ſo Briskly, but he muſt Pay the <hi>Fidler</hi> as Extravagantly: For, here's <hi>Houſhold Charges</hi> like to enſue; and no leſs than a whole <hi>Brace</hi> of <hi>Jolly Twin Brats,</hi> a Young <hi>Coke</hi> and <hi>Littleton,</hi> ſaid at his Door, without the Trouble of an <hi>Hand-Basket,</hi> or any ſuch <hi>Slovenly Convey<g ref="char:EOLhyphen"/>ance:</hi> The <hi>Mother</hi> has fairly <hi>Dropt 'em,</hi> the <hi>Pa<g ref="char:EOLhyphen"/>riſh</hi> is as fairly <hi>Cleared of 'em,</hi> and the <hi>Gallant</hi> as fairly <hi>Entitled to 'em,</hi> by Virtue of her <hi>Tenant in Tayl,</hi> as the <hi>Beſt Patrimony</hi> in the whole <hi>Kings-Bench</hi> Rolls.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>J. Sharp,</hi> at the <hi>Cock</hi> and <hi>Fountain</hi> near <hi>Fleet, ſtreet,</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
